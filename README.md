@@ -2,4 +2,3 @@
 
 # Lecture at Krona, USN, Kongsberg, Norway
 
-# 
